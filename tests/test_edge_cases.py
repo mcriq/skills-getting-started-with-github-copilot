@@ -2,7 +2,6 @@
 Performance and edge case tests for the Mergington High School API.
 """
 
-import pytest
 from fastapi import status
 class TestEdgeCases:
     """Test edge cases and error conditions."""
